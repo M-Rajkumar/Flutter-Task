@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstName": "Sathish",
+    "lastName": "Kannan",
+    "displayName": "Sathish Kannan",
+    "shortName": "Sk",
+    "photo": "",
+    "logo": "android",
+    "domain": "Android Developer"
+  },
+  {
+    "id": 2,
+    "firstName": "Raj",
+    "lastName": "Kumar",
+    "displayName": "Raj Kumar",
+    "shortName": "Rk",
+    "photo": "",
+    "logo": "flutter",
+    "domain": "Flutter Developer"
+  },
+  {
+    "id": 3,
+    "firstName": "Gopal",
+    "lastName": "Krish",
+    "displayName": "Gopal Krish",
+    "shortName": "Gk",
+    "photo": "",
+    "logo": "ios",
+    "domain": "iOS Developer"
+  },
+  {
+    "id": 4,
+    "firstName": "Ranjith",
+    "lastName": "Kumar",
+    "displayName": "Ranjith Kumar",
+    "shortName": "Rk",
+    "photo": "",
+    "logo": "tester",
+    "domain": "Test Engineer"
+  },
+  {
+    "id": 5,
+    "firstName": "Ramya",
+    "lastName": "Sree",
+    "displayName": "Ramya Sree",
+    "shortName": "Rs",
+    "photo": "",
+    "logo": "hr",
+    "domain": "HR"
+  },
+  {
+    "id": 6,
+    "firstName": "Venkat",
+    "lastName": "Sella",
+    "displayName": "Venkat Sella",
+    "shortName": "Vs",
+    "photo": "",
+    "logo": "angular",
+    "domain": "Angular Developer"
+  },
+  {
+    "id": 7,
+    "firstName": "Nandhini",
+    "lastName": "Kumar",
+    "displayName": "Nandhini Kumar",
+    "shortName": "Nk",
+    "photo": "",
+    "logo": "php",
+    "domain": "Php Developer"
+  }
+]
